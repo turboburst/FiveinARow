@@ -17,7 +17,6 @@ public class LogActivity extends Activity
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
-        //This is nothing but test ubuntu commit
         super.onCreate(savedInstanceState);
         setContentView(R.layout.logactivity_layout );
         imageView1 = (ImageView) findViewById(R.id.white1iconid);
